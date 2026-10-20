@@ -1,4 +1,4 @@
-# Viaje web
+# Viaje de la web
 
 Sitio educativo e interactivo que explica, paso a paso, qué ocurre cuando se escribe una dirección web en el navegador. Está pensado para practicar conceptos básicos de desarrollo web mediante una simulación visual y un breve desafío.
 
